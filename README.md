@@ -1,7 +1,7 @@
 <h2>LabelCleanUp - Developing Data Products</h2>
 
 The <b>LabelCleanUp Helper</b> app was built as the final project to the Coursera course Developing Data Products by Johns Hopkins University's <b>Bloomberg School of Public Health</b> as presented by <b>Brian S. Caffo, PhD</b>.<br>
-<font size=20>https://www.jhsph.edu/faculty/directory/profile/1010/brian-s-caffo</font>
+<i>https://www.jhsph.edu/faculty/directory/profile/1010/brian-s-caffo</i>
 
 The idea behind the app is to help with data cleanup. In one of the projects in class we had to cleanup a very large file (<b>NOAA File</b>) and one of the features (<b>EVTYPE</b>) that specified the type of event needed significant cleanup with many equivalent entries written differently for example. To accomplish such as task in R was possible but itterative and tedious. This app facilitates that text replacement process.
 
@@ -12,7 +12,7 @@ The project files are contained within the following <b>Github</b> repository:<b
 https://github.com/tomyr95/LabelCleanUpApp
 
 The data file <b>StormDataSubset.csv</b> used in this app was a small subset taken from the NOAA Storm Database:<br>
-https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2 (NOAA File)
+<em>https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2</em> (NOAA File)
 
 Four files in <b>Github</b> repository show application screenshot images:<br>
 <a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/1.jpg">1.jpg</a>
