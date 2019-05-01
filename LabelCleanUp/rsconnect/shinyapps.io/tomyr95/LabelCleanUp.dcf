@@ -1,0 +1,12 @@
+name: LabelCleanUp
+title: LabelCleanUp
+username:
+account: tomyr95
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 901952
+bundleId: 2052749
+url: https://tomyr95.shinyapps.io/LabelCleanUp/
+when: 1556720187.55643
+asMultiple: FALSE
+asStatic: FALSE
