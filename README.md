@@ -15,8 +15,9 @@ The data file <b>StormDataSubset.csv</b> used in this app was a small subset tak
 https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2 (NOAA File)
 
 Four files in <b>Github</b> repository show application screenshot images:<br>
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/1.jpg">1.jpg</a>
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/2.jpg">2.jpg</a>
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/3.jpg">3.jpg</a>
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/4.jpg">4.jpg</a>
-
+<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/1.png">1.jpg</a>
+<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/2.png">2.jpg</a>
+<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/3.png">3.jpg</a>
+<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/4.png">4.jpg</a>
+<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/4.png">4.jpg</a>
+<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/5.png">5.jpg</a>
