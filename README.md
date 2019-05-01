@@ -3,10 +3,7 @@ LabelCleanUp - Developing Data Products
 The "LabelCleanUp Helper" app was built as the final project to the Coursera course Developing Data Products by Johns Hopkins University's <b>Bloomberg School of Public Health</b> as presented by <b>Brian S. Caffo, PhD</b>.<br>
 https://www.jhsph.edu/faculty/directory/profile/1010/brian-s-caffo
 
-The idea behind the app is to help with data cleanup. In one of the projects in class we had to cleanup a very large file (NOAA File) and one of the features (EVTYPE) that specified the type of event needed significant cleanup with many equivalent entries written differently for example. To accomplish such as task in R was possible but itterative and tedious. THis app facilitates that text replacement process.
-
-The "LabelCleanUp Helper" app was built as the final project to the Coursera course Developing Data Products by Johns Hopkins University's Bloomberg School of Public Health as presented by Brian S. Caffo, PhD.<br>
-https://www.jhsph.edu/faculty/directory/profile/1010/brian-s-caffo
+The idea behind the app is to help with data cleanup. In one of the projects in class we had to cleanup a very large file (<b>NOAA File</b>) and one of the features (<b>EVTYPE</b>) that specified the type of event needed significant cleanup with many equivalent entries written differently for example. To accomplish such as task in R was possible but itterative and tedious. This app facilitates that text replacement process.
 
 The "LabelCleanUp Helper" app is hosted and available at:<br>
 https://tomyr95.shinyapps.io/LabelCleanUp/
