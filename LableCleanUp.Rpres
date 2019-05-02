@@ -44,12 +44,6 @@ The <b>LabelCleanUp Helper</b> app is hosted and available
 The project files are contained in a <b>Github</b> repository 
 <a href="https://github.com/tomyr95/LabelCleanUpApp">here</a>.
 
-Four files in <b>Github</b> repository show application screenshot images: 
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/1.png">1</a>
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/2.png">2</a>
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/3.png">3</a>
-<a href="https://github.com/tomyr95/LabelCleanUpApp/blob/master/4.png">4</a>
-
 The data file <b>StormDataSubset.csv</b> in this app is a subset of the 
 <a href="https://www.ncdc.noaa.gov/stormevents/ftp.jsp">NOAA Storm Database</a>.
 
