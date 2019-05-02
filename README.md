@@ -5,7 +5,7 @@ https://www.jhsph.edu/faculty/directory/profile/1010/brian-s-caffo
 
 The idea behind the app is to help with data cleanup. In one of the projects in class we had to cleanup a very large file (<b>NOAA File</b>) and one of the features (<b>EVTYPE</b>) that specified the type of event needed significant cleanup with many equivalent entries written differently for example. To accomplish such as task in R was possible but itterative and tedious. This app facilitates that text replacement process.
 
-The <b>Reproducible Pitch Presentation<b> is at:
+The <b>Reproducible Pitch Presentation<b> is at:<br>
 http://rpubs.com/tomyr95/LabelCleanUpApp
 
 The <b>LabelCleanUp Helper</b> app is hosted and available at:<br>
