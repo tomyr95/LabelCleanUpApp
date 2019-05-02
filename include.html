@@ -1,0 +1,32 @@
+<html>
+<style>
+      .footer {
+            color: black; background: #E8E8E8;
+            position: fixed; top: 90%;
+            text-align:center; width:100%;
+      }
+</style>
+
+<body>
+
+<br><br>
+The idea behind the app is to help with data cleanup. In one of the projects in class we had<br>
+to cleanup a very large file (NOAA File) and one of the features (EVTYPE) that specified the<br>
+type of event needed significant cleanup with many equivalent entries written differently<br>
+for example. To accomplish such as task in R was possible but itterative and tedious.<br><br>
+This app facilitates that text replacement process.<br><br>
+
+1. <b>APP</b> opens "StormDataSubset.csv" (Filename) and filters to EVTYPE (Feature)... See in global.R.<br><br>
+2. <b>APP</b> creates 2 tabs with feature labels frequency table "FREQ TABLE" and full data "DATA"".<br><br>
+3. <b>APP</b> creates sidebar panel for USER input that can be accessed from both tabs.<br><br>
+4. Fisrst, <b>USER</b> can enter text to filter "FREQ TABLE"" labels for ease of review.<br><br>
+5. Next, <b>USER</b> can manually choose all target labels for subsequent replacement from selection list.<br><br>
+6. <b>USER</b> may also narrow selection to filtered <b>FREQ</b> TABLE list by clicking "From FREQ TABLE" button.<br><br>
+7. Once label selection is completed, <b>USER</b> can enter "replacement text".<br><br>
+8. If <b>USER</b> presses "Replace" button then <b>APP</b> replaces all selected labels with replacement text.<br><br>
+9. The <b>APP</b> then updates <b>DATA</b>, reloads application, and process can begin again.<br><br>
+10. Once <b>USER</b> has completed using the <b>APP</b> he/she may download resulting <b>DATA</b>.<br><br>
+11. The downloaded file will have all replaced entries and date stamp.<br>
+
+</body>
+</html>
